@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Exercise_1.FavoriteNumber();
+            Exercise_2.FavoriteSubject();
         }
     }
 }
